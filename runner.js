@@ -30,4 +30,4 @@ console.log("Kuanzisha Cloudflare Worker Runner kwenye HostKB Cloud (Kila sekund
 executeCloudflareWorker();
 
 // 2. Kimbiza kila baada ya sekunde 1 (1000ms)
-setInterval(executeCloudflareWorker, 1000);
+setInterval(executeCloudflareWorker, 3000);
